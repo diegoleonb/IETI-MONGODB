@@ -23,3 +23,7 @@ En este laboratorio se implementa la capa de persistencia de la aplicación de t
 - Se eliminan los datos de la base de datos de MongoDB.
 
 ![](media/Capture3.PNG)
+
+- Se puede observar que los datos se guardan en MongoDb Atlas.
+
+![](media/Capture5.PNG)
